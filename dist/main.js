@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("div"),t=document.querySelector("#content");e.classList.add("testclass"),t.appendChild(e)})();
