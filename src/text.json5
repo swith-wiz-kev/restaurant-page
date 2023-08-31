@@ -1,6 +1,14 @@
 {
   // comment
-  headerHomepage: "Luxurious Dining",
+  homepageHeader: "Luxurious Dining",
 
-  bodyHomepage: "JASDHKJASHDKJAHSD \nasdjoahsdjkhaskdjALSKJDHJK ajsdHKASHDjkhasdjkhas \naksjdhjlaksdjlkasdjlkasjdlk ",
+  homepageBody: "JASDHKJASHDKJAHSD \nasdjoahsdjkhaskdjALSKJDHJK ajsdHKASHDjkhasdjkhas \naksjdhjlaksdjlkasdjlkasjdlk ",
+
+  menuHeader: "Delicious Food",
+
+  menuBody: "JASDHKJASHDKJAHSD \nasdjoahsdjkhaskdjALSKJDHJK ajsdHKASHDjkhasdjkhas \naksjdhjlaksdjlkasdjlkasjdlk ",
+
+  contactHeader: "Send us a message",
+
+  contactBody: "JASDHKJASHDKJAHSD \nasdjoahsdjkhaskdjALSKJDHJK ajsdHKASHDjkhasdjkhas \naksjdhjlaksdjlkasdjlkasjdlk ",
 }
