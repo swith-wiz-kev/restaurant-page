@@ -1,25 +1,28 @@
 import homepageImage from "./Wholesome-Table-Healthy-Restaurant-Manila.webp";
-import menuImage from "./Wholesome-Table-Healthy-Restaurant-Manila.webp";
-import contactImage from "./Wholesome-Table-Healthy-Restaurant-Manila.webp";
+import menuImage from "./The-Farm-Organics-Healthy-Restaurant-Manila.webp";
+import contactImage from "./contactus.png";
 import text from "./text.json5";
 // import foodImage from "./The-Farm-Organics-Healthy-Restaurant-Manila.webp";
 
 const attributes = {
   navBar: {
     container: {
-      class: "container",
+      class: "navbar",
     },
     homepage: {
       class: "navbar homepage",
       datasetTab: "homepageTab",
+      textContent: "HOME",
     },
     menu: {
       class: "navbar menu",
       datasetTab: "menuTab",
+      textContent: "MENU",
     },
     contact: {
       class: "navbar contact",
       datasetTab: "contactTab",
+      textContent: "Contact Us",
     },
   },
 

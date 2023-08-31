@@ -2,13 +2,13 @@
   // comment
   homepageHeader: "Luxurious Dining",
 
-  homepageBody: "JASDHKJASHDKJAHSD \nasdjoahsdjkhaskdjALSKJDHJK ajsdHKASHDjkhasdjkhas \naksjdhjlaksdjlkasdjlkasjdlk ",
+  homepageBody: "Welcome to our ABC Restaurant \nOpen: Mon-Sun 10am - 9pm \nLocation: Abc Street, Abc, Cde ",
 
   menuHeader: "Delicious Food",
 
-  menuBody: "JASDHKJASHDKJAHSD \nasdjoahsdjkhaskdjALSKJDHJK ajsdHKASHDjkhasdjkhas \naksjdhjlaksdjlkasdjlkasjdlk ",
+  menuBody: "Shrimp with veggies\nSuper delicious and affordable",
 
   contactHeader: "Send us a message",
 
-  contactBody: "JASDHKJASHDKJAHSD \nasdjoahsdjkhaskdjALSKJDHJK ajsdHKASHDjkhasdjkhas \naksjdhjlaksdjlkasdjlkasjdlk ",
+  contactBody: "EMAIL: ABCD@asd.asd \nFacebook: @asdasd \nTwitter: @asdasd \nInstagram: @asdasd\nMobile: 1234-1234-1234",
 }
